@@ -1,0 +1,19 @@
+{
+  "name": "vue-log-report",
+  "version": "1.0.0",
+  "description": "vue项目日志上报",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-shangyj/vue-log-report.git"
+  },
+  "author": "shawn.shangyj <shawn_shangyj@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawn-shangyj/vue-log-report/issues"
+  },
+  "homepage": "https://github.com/shawn-shangyj/vue-log-report#readme"
+}
